@@ -1,14 +1,13 @@
 
 <!---
-chr0memango/chr0memango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mollyxxhunter/mollyxxhunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
 
-![Python](https://img.shields.io/badge/Python-Beginner-CFD7E8?logo=Python&logoColor=ffffff) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-CFD7E8?logo=googlecloud&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-Novice-CFD7E8?logo=MySQL&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-Beginner-CFD7E8?logo=GitHub&logoColor=ffffff) ![Figma](https://img.shields.io/badge/Figma-Intermediate-CFD7E8?logo=Figma&logoColor=ffffff)  <br>
-![HTML](https://img.shields.io/badge/HTML-Intermediate-CFD7E8?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/CSS-Intermediate-CFD7E8?logo=css&logoColor=ffffff) ![JSON](https://img.shields.io/badge/JSON-Beginner-CFD7E8?logo=json&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-Novice-CFD7E8?logo=javascript&logoColor=ffffff) ![REACT](https://img.shields.io/badge/REACT-Novice-CFD7E8?logo=react&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-Beginner-CFD7E8?logo=Python&logoColor=ffffff) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-CFD7E8?logo=googlecloud&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-Novice-CFD7E8?logo=MySQL&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-Beginner-CFD7E8?logo=GitHub&logoColor=ffffff) ![Figma](https://img.shields.io/badge/Figma-Intermediate-CFD7E8?logo=Figma&logoColor=ffffff) ![JSON](https://img.shields.io/badge/JSON-Beginner-CFD7E8?logo=json&logoColor=ffffff) 
 
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyxxhunter&langs_count=20&bg_color=CFD7E8&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Hunter<br> I'm a Software Engineer • 🎯 Python<br>I'm working toward my bachelors in SWE @ UMC.<br><br> ✔ I have completed a 530 hour Software Engineer Internship. <br>*What I practiced:* <br>✦ Backend Integrations / Node.js / CLI,<br>✦ Software Design & Construction, <br>✦ Google Cloud & Firebase, IAM Permissions,<br>✦ Web Development, HTML/CSS/JS |
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyxxhunter&langs_count=20&bg_color=CFD7E8&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Hunter<br> I'm a Software Engineer • 🎯 Python<br>I'm working toward my bachelors in SWE @ UMC.<br><br> ✔ I have completed a 530 hour Software Engineer Internship. <br>*What I practiced:* <br>✦ Cloud Integrations / CLI,<br>✦ Software Design & Construction, <br>✦ Google Cloud & Firebase, IAM Permissions,<br>✦ Web Development, HTML/CSS/JS |
 |-------------------------|-------------------------|
 *GOALS* <br><br> ⊹ Read 444 books, [checkout goodreads](https://www.goodreads.com/mollyxxhunter) <br> ⊹ 800 credit score  | *FUN FACTS* (✿◠‿◠) <br><br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* <br> ⊹ I normally workout 5 days/week, health is important to me <br> ⊹ spend most of my time in the sun or on a paddleboard, SUPyoga! <Br>⊹ I dream of an urban jungle🍃<br>
 
