@@ -4,7 +4,7 @@ mollyxxhunter/mollyxxhunter is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes. -->
 
 
-![Figma](https://img.shields.io/badge/Figma-Intermediate-EBEBEB?logo=Figma&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML-Intermediate-EBEBEB?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/CSS-Intermediate-EBEBEB?logo=css&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/javascript-Beginner-EBEBEB?logo=javascript&logoColor=ffffff)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-EBEBEB?logo=googlecloud&logoColor=ffffff) ![JSON](https://img.shields.io/badge/JSON-Beginner-EBEBEB?logo=json&logoColor=ffffff) 
+![Figma](https://img.shields.io/badge/Figma-Intermediate-EBEBEB?logo=Figma&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML-Intermediate-EBEBEB?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/CSS-Intermediate-EBEBEB?logo=css&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/javascript-Beginner-EBEBEB?logo=javascript&logoColor=ffffff)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-EBEBEB?logo=googlecloud&logoColor=ffffff) 
 
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyxxhunter&langs_count=20&bg_color=EBEBEB&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Hunter<br> I'm a UX / UI Designer & Engineer • ★ Creating experiences<br>I'm working toward my bachelors in SWE @ UMC.<br><br> ✔ I have completed a 530 hour Software Engineer Internship. <br><br>*Focused Skills:* <br>✦ Figma,<br>✦ High-Fidelity Prototypes, <br>✦ iOS Applications,<br>✦ Web Development, HTML/CSS/JS <br>✦ Quality Assurance & Compliance  |
