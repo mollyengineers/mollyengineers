@@ -4,7 +4,7 @@ mollyengineers/mollyengineers is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes. -->
 
 
-![Python](https://img.shields.io/badge/Python-Beginner-EBEBEB?logo=Python&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML-Intermediate-EBEBEB?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/CSS-Intermediate-EBEBEB?logo=css&logoColor=ffffff) ![Figma](https://img.shields.io/badge/figma-Intermediate-EBEBEB?logo=figma&logoColor=ffffff)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-EBEBEB?logo=googlecloud&logoColor=ffffff) 
+![Python](https://img.shields.io/badge/Python-Beginner-EBEBEB?logo=Python&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-Beginner-EBEBEB?logo=git&logoColor=ffffff) ![c++](https://img.shields.io/badge/C++-Novice-EBEBEB?logo=cplusplus&logoColor=ffffff) ![Arduino](https://img.shields.io/badge/Arduino-Novice-EBEBEB?logo=arduino&logoColor=ffffff)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Beginner-EBEBEB?logo=googlecloud&logoColor=ffffff) 
 
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyengineers&langs_count=20&bg_color=EBEBEB&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Gustafson<br> I'm a Software Engineer • focused on mastering python ★ <br>I'm working toward my bachelors in SWE @ UMC.<br><br> ✔ I have completed a 530 hour Software Engineer Internship. <br><br>*Focused Skills:* <br>✦ Python,<br>✦ Google Cloud Platform, <br>✦ iOS Applications,<br>✦ Web Development, HTML/CSS <br>✦ Quality Assurance & Compliance  |
