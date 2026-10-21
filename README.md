@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes. -->
 
 *FUN FACTS* (✿◠‿◠) <br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* <br> ⊹ I normally workout 5 days/week, health <b>& health tech</b> is important to me <br> ⊹ love spending my time in the sun or on a paddleboard, SUP! <br><br>
 
-*PROJECTS* <br> ✦ Backend Engineering • Healthcare Management System  <Br>  ✦ Embedded Engineering  • Microcontroller Project <br> ✦ Automation Tasks • Python System Calls in Linux <br> <br>
+*PROJECTS* <br> ✦ Backend & Cloud Engineering <br> [→ Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system_) <Br><br>  ✦ Embedded Engineering  • Microcontroller Project <br><br> ✦ Automation Tasks • Python System Calls in Linux <br> <br>
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyengineers&langs_count=20&bg_color=EBEBEB&title_color=000000&text_color=000000) 
  
