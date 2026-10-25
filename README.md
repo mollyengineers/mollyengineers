@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes. -->
 
 *PROJECTS* <br> ✦ Backend & Cloud Engineering • Senior Project <br> [REPO → Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system) <Br><br>  ✦ Embedded Engineering  • Microcontroller Project <br><br>
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyengineers&langs_count=20&bg_color=EBEBEB&title_color=000000&text_color=000000) 
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mollyengineers&langs_count=20&bg_color=ffffff&title_color=000000&text_color=000000) 
  
 
 
