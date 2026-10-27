@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes. -->
  
 ![Python](https://img.shields.io/badge/Python-Beginner-E7FDFE?logo=Python&logoColor=ffffff) ![c++](https://img.shields.io/badge/C++-Novice-E7FDFE?logo=cplusplus&logoColor=ffffff)  ![Git](https://img.shields.io/badge/Git-Beginner-E7FDFE?logo=git&logoColor=ffffff)  ![Arduino](https://img.shields.io/badge/Arduino-Novice-E7FDFE?logo=arduino&logoColor=ffffff) ![Adafruit](https://img.shields.io/badge/Adafruit-Novice-E7FDFE?logo=adafruit&logoColor=ffffff) 
 
-<p align="left">Hi! I'm Molly :)<br> I'm a Software Engineer • Backend, Embedded, IoT ★ <br>Bachelor of Science in Software Engineering @ UMC 2027.<br><br> ✔ I have completed a 530 hour Software Engineer Internship.<Br> ⌛I'm working on a systematic review of AI in clinical practices <br><br>
+<p align="left">Hi! I'm Molly :)<br> I'm a <b>Software Engineer • Backend, Embedded, IoT</b> ★ 
+ <br>Bachelor of Science in Software Engineering @ UMC 2027.<br><br> ✔ I have completed a 530 hour Software Engineer Internship.<Br> ⌛I'm working on a systematic review of AI in clinical practices <br><br>
 
 
 *FUN FACTS* (✿◠‿◠) <br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* 🐾 <br> ⊹ I normally workout 5 days/week, health <b>& health tech</b> is important to me <br> ⊹ love spending my time in the sun or on a paddleboard, SUP! 🌞⚓ <br><br>
