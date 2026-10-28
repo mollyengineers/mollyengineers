@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes. -->
  
 ![Python](https://img.shields.io/badge/Python-Beginner-E7FDFE?logo=Python&logoColor=ffffff) ![c++](https://img.shields.io/badge/C++-Novice-E7FDFE?logo=cplusplus&logoColor=ffffff)  ![Git](https://img.shields.io/badge/Git-Beginner-E7FDFE?logo=git&logoColor=ffffff)  ![Arduino](https://img.shields.io/badge/Arduino-Novice-E7FDFE?logo=arduino&logoColor=ffffff) ![Adafruit](https://img.shields.io/badge/Adafruit-Novice-E7FDFE?logo=adafruit&logoColor=ffffff) 
 
-<p align="left">Hi! I'm Molly :)<br> I'm a <b>Software Engineer • Backend, Embedded, IoT</b> ★ 
+<p align="left">Hi! I'm Molly :)<br> I'm a <b>Software Engineer • Backend, Embedded, IoT ★ Health Tech & Defense </b>
  <br>Bachelor of Science in Software Engineering @ UMC 2027.<br><br> ✔ I have completed a 530 hour Software Engineer Internship.<Br> ⌛I'm working on a systematic review of AI in clinical practices <br><br>
 
 
