@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes. -->
 
 | ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​ | ​🇹​​🇪​​🇨​​🇭​​🇸​​🇹​​🇦​​🇨​​🇰​ |
 |---|---|
-| [🔗 Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system) | `Python`  `API`  `Cloud`  `Git`  `Supabase`  `Northflank` |
+| [🔗 Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system) | `Python`  `API`  `Cloud` `Supabase`  `Northflank` |
 | 🔗 Homelab Setup | `Linux`  `Ubuntu` `Ollama`  `Local LLM` `SSH` `BASH` |
 | 🔗 Microcontroller Project | `C++`  `Arduino`  `Microcontrollers` |
 | 🔗 Project 4 | `Python` |
