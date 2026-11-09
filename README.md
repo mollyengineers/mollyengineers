@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes. -->
 I completed a 530-hour Software Engineer Internship through the DEED program, where I founded [🔗 SLATE01](https://github.com/SLATE01hq) and worked independently with a program mentor. I did front-end and cloud development, deploying a website with Firebase CLI and setting up Google Cloud Platform, including redirect URLs and IAM permissions.
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗦𝗲𝘁𝘂𝗽 <br>
-Currently my IDE of choice is VS Code, I use a WSL Ubuntu for simplicity and then SSH into a homelab set up with Ubuntu 26.04 where I also have a Mistral 7B running for experimentation. Extensions: PlatformIO IDE, Ruff, AREPL, Better Comments
+Currently my IDE of choice is VS Code, I use a WSL Ubuntu for simplicity and then SSH into a homelab set up with Ubuntu 26.04, stores projects - set up with Git to push & pull to GitHub. I also have a Mistral 7B running for experimentation. Extensions: PlatformIO IDE, Ruff, AREPL, Better Comments
 
 *FUN FACTS* (✿◠‿◠) <br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* 🐾 <br> ⊹ I normally workout 5 days/week, health <b>& health tech</b> is important to me <br> ⊹ love spending my time in the sun or on a paddleboard, SUP! 🌞⚓ <br><br>
 
