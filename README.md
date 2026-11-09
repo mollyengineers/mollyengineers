@@ -14,11 +14,9 @@ I completed a 530-hour Software Engineer Internship through the DEED program, wh
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗦𝗲𝘁𝘂𝗽 <br>
 Currently my IDE of choice is VS Code, I use a WSL Ubuntu for simplicity and then SSH into a homelab set up with Ubuntu 26.04, stores projects - set up with Git to push & pull to GitHub. I also have a Mistral 7B running for experimentation. Extensions: PlatformIO IDE, Ruff, AREPL, Better Comments
+<br><br>
 
-*FUN FACTS* (✿◠‿◠) <br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* 🐾 <br> ⊹ I normally workout 5 days/week, health <b>& health tech</b> is important to me <br> ⊹ love spending my time in the sun or on a paddleboard, SUP! 🌞⚓ <br><br>
-
-
-| ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​ | ​🇹​​🇪​​🇨​​🇭​​🇸​​🇹​​🇦​​🇨​​🇰​ |
+| 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 | ​𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 |
 |---|---|
 | [🔗 Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system) | `Python`  `API`  `Cloud` `Supabase`  `Northflank` |
 | [🔗 Home Air Filtration System](https://github.com/mollyengineers/home-air-filtration-system) | `C++`  `Arduino`  `Microcontrollers` `Sensors` |
