@@ -3,11 +3,14 @@
 mollyengineers/mollyengineers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
  
-![Python](https://img.shields.io/badge/Python-Beginner-E7FDFE?logo=Python&logoColor=ffffff) ![c++](https://img.shields.io/badge/C++-Novice-E7FDFE?logo=cplusplus&logoColor=ffffff) ![Linux](https://img.shields.io/badge/Linux-Beginner-E7FDFE?logo=Linux&logoColor=ffffff) ![Arduino](https://img.shields.io/badge/Arduino-Novice-E7FDFE?logo=arduino&logoColor=ffffff) ![Adafruit](https://img.shields.io/badge/Adafruit-Novice-E7FDFE?logo=adafruit&logoColor=ffffff) 
+![Python](https://img.shields.io/badge/Python-E7FDFE?logo=python&logoColor=000000) ![c++](https://img.shields.io/badge/C++-E7FDFE?logo=cplusplus&logoColor=000000) ![Linux](https://img.shields.io/badge/Linux-E7FDFE?logo=Linux&logoColor=000000) ![Arduino](https://img.shields.io/badge/Arduino-E7FDFE?logo=arduino&logoColor=000000) ![Adafruit](https://img.shields.io/badge/Adafruit-E7FDFE?logo=adafruit&logoColor=000000) ![Supabase](https://img.shields.io/badge/Supabase-E7FDFE?logo=supabase&logoColor=000000) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-E7FDFE?logo=googlecloud&logoColor=000000)
 
-<p align="left">Hi! I'm Molly :)<br> I'm a <b>Software Engineer • Backend, Embedded, IoT ★ Health Tech & Defense </b>
- <br>Bachelor of Science in Software Engineering @ UMC 2027.<br><br> ✔ I have completed a 530 hour Software Engineer Internship.<Br> ⌛I'm working on a systematic review of AI in clinical practices <br><br>
+<p align="left">
+ I'm a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿; Backend, Embedded, IoT. I'm currently working on my Bachelor of Science in Software Engineering (expected May 2027). I have a strong interest in the health & defense domain. Whether its wearable tech, health tech, or other mission-critical-high-consequence software, I'm always trying to learn as much as I can while feeling like I'm contributing to something meaningful. 
+ <br>
 
+𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽
+I completed a 530-hour Software Engineer Internship through the DEED program, where I founded [🔗 SLATE01](https://github.com/SLATE01hq) and worked independently with a program mentor. I did front-end and cloud development, deploying a website with Firebase CLI and setting up Google Cloud Platform, including redirect URLs and IAM permissions.
 
 *FUN FACTS* (✿◠‿◠) <br> ⊹ I have a blind 11 year old chihuahua named *Jasmine/Jazz* 🐾 <br> ⊹ I normally workout 5 days/week, health <b>& health tech</b> is important to me <br> ⊹ love spending my time in the sun or on a paddleboard, SUP! 🌞⚓ <br><br>
 
