@@ -20,7 +20,7 @@ Currently my IDE of choice is VS Code, I use a WSL Ubuntu for simplicity and the
 |---|---|
 | [🔗 Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system) | `Python`  `API`  `Cloud` `Supabase`  `Northflank` |
 | [🔗 Home Air Filtration System](https://github.com/mollyengineers/home-air-filtration-system) | `C++`  `Arduino`  `Microcontrollers` `Sensors` |
-| 🔗 Project 3 | `Python` |
+
 
 
 <br>
