@@ -25,7 +25,7 @@ Currently my IDE of choice is VS Code, I use a WSL Ubuntu for simplicity and the
 
 <br>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mollyengineers&layout=compact&title_color=000000&text_color=000000&bg_color=E3F1F2&border_color=000000)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mollyengineers&layout=compact&title_color=000000&text_color=000000&bg_color=E3F1F2&border_color=#D3D3D3)
 
 
 
