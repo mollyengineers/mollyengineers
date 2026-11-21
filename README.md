@@ -19,6 +19,7 @@ Currently my IDE of choice is VS Code, I use Ubuntu 26.04 on my main PC. I have 
 | 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 | ​𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 |
 |---|---|
 | [🔗 Healthcare Management System: Odyssey](https://github.com/SeniorProject-2027/odyssey-system) | `Python`  `API`  `Cloud` `Supabase`  `Northflank` |
+| [🔗 Fitness Tracker Application: Hi.lift](https://github.com/mollyengineers/hi.lift-app) | `iOS` |
 | [🔗 Home Air Filtration System](https://github.com/mollyengineers/home-air-filtration-system) | `C++`  `Arduino`  `Microcontrollers` `Sensors` |
 
 
